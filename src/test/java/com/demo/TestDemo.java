@@ -19,4 +19,10 @@ public class TestDemo {
 
 		Assert.assertTrue(a>b);
 	}
+
+	@Test
+	public void getName(){
+		Assert.assertEquals(4, "arun".length());
+	}
+
 }

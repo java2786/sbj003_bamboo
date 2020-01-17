@@ -3,12 +3,11 @@
 	<style>
 		h2{
 			text-align: center;
-			color: cornflowerblue;
-			border: 5px solid yellow;
+			color: darkseagreen;
+			border: 5px solid red;
 			border-radius: 15px 5px;
 			padding: 10px;
-			background-color: black;
-			outline: 5px solid green;
+			outline: 5px solid black;
 			font-size: 56px;
 		}
 	</style>
@@ -16,7 +15,7 @@
 
 <body>
 
-<h2>Welcome User.......................</h2>
+<h2>Welcome User</h2>
 
 </body>
 </html>
